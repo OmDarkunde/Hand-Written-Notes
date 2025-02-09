@@ -1,1 +1,1 @@
-# Hand-Written-Notes-For-Data-Science
+# Hand-Written-Notes
